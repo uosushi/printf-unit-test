@@ -1,6 +1,7 @@
 # printf-unit-test
 ```bash
 cd <subject_dir>
+git clone https://github.com/uosushi/printf-unit-test
 cd printf-unit-test
 make f もしくは make variety
 ./test
