@@ -1,4 +1,4 @@
-# sandbox
+# printf-unit-test
 ```bash
 cd <subject_dir>
 cd printf-unit-test
